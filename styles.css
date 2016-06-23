@@ -1,0 +1,47 @@
+
+body{
+    background: #e3e3e3;
+}
+
+h2{
+    margin: 0;
+    text-align: center;
+}
+
+#main {
+    height: 100%;
+    width: 33%;
+    margin: 0 auto;
+    margin-bottom: 5%;
+    padding: 50px;
+    border: 1px solid lightgrey;
+    background: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+img{
+    margin: 0 145px;
+}
+
+.info{
+    padding: 5px 15px;
+}
+
+#student{
+    margin:0;
+    padding: 0 15px;
+    text-align: center;
+}
+
+#phone{
+    margin: 5px 0 30px;
+}
+
+.link{
+    margin: 5px 0 0;
+}
+
+.separator{
+    border-top: 1px solid #9a9a9a;
+    margin: 8px 0;
+}
